@@ -1,5 +1,5 @@
 <template>
-  <button @click="inc">Add-2</button>
+  <button @click="inc">Add 2 after time</button>
   <button @click="increase({ value: 11 })">Add-11</button>
 </template>
 
